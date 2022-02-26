@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the Parliament upon the petition and appeal of Josiah Primat of London, leatherseller. Saturday the seventeenth of January, 1651. Ordered by the Parliament, that the several proceedings and votes be forthwith printed and published. Hen. Scobell, Cleric. Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74436</idno>
+            <idno type="STC">Thomason E1061_61</idno>
+            <idno type="STC">ESTC R209331</idno>
+            <idno type="EEBO-CITATION">99868214</idno>
+            <idno type="PROQUEST">99868214</idno>
+            <idno type="VID">169110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169110)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the Parliament upon the petition and appeal of Josiah Primat of London, leatherseller. Saturday the seventeenth of January, 1651. Ordered by the Parliament, that the several proceedings and votes be forthwith printed and published. Hen. Scobell, Cleric. Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1527-1536.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ordering the burning of: Primatt, Josiah.  To the supream authority of this nation, the Parliament of the Commonwealth of England.</note>
+                  <note>Signatures: 11S-11T2. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Primatt, Josiah --  Censorship --  Early works to 1800.</term>
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Libel and slander --  England --  Early works to 1800.</term>
+               <term>Coal trade --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169110:1" rendition="simple:additions"/>
+            <p>THE PROCEEDINGS OF THE PARLIAMENT UPON THE Petition and Appeal OF <hi>Joſiah Primat</hi> of <hi>London,</hi> Leatherſeller.</p>
+            <p>
+               <hi>Saturday</hi> the Seventeenth of <hi>January,</hi> 1651.</p>
+            <p>
+               <hi>ORdered by the Parliament, That the ſeveral</hi> Proceedings <hi>and</hi> Votes <hi>be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <p>Hen. Scobell, Cleric. Parliament.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:169110:2"/>
+            <pb n="1527" facs="tcp:169110:2" rendition="simple:additions"/>
+            <head>
+               <hi>Tueſday</hi> the Three and twentitth of <hi>December. 1651.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Petition and Appeal of <hi>Joſiah Pri<g ref="char:EOLhyphen"/>mat</hi> of <hi>London</hi> Leatherſeller, was this day read.</p>
+            <p>Reſolved upon the Queſtion,</p>
+            <p>
+               <hi>That the Petitioner</hi> Joſiah Pri<g ref="char:EOLhyphen"/>mat <hi>be called in to avow his Pe<g ref="char:EOLhyphen"/>tition.</hi>
+            </p>
+            <p>The Petitioner was called in accordingly, and being come to the Bar, Mr. Speaker demanded his name: He anſwered, <hi>Jo<g ref="char:EOLhyphen"/>ſiah Primat;</hi> and being ſhewed the Petition it ſelf, and demand<g ref="char:EOLhyphen"/>ed whether that were his Petition, and that he did avow it: He anſwered, The name ſubſcribed thereunto was his hand, and that was his Petition, and that he did avow it in the maner as it is therein expreſſed; and then the Petitioner withdrew.</p>
+            <p>The Petitioner was again by Order of the Houſe called in, and Mr. Speaker demanded of him whether he did give order for this Petition to be printed: To which he anſwered, Yes. And being asked who printed it: He ſaith, It was a Printer at <hi>Pauls-wharf,</hi> he ſaith his name was Mr. <hi>Newcomb:</hi> And that he the ſaid Mr. <hi>Pri<g ref="char:EOLhyphen"/>mat</hi> gave order for the printing of Five hundred, and that he gave ſuch order about three days ſince. And being ſhewed a printed Pa<g ref="char:EOLhyphen"/>per entituled thus, <hi>To the Supream Authority of this Nation, The Parliament of the Commonwealth of</hi> England, <hi>The humble Petition and Appeal of</hi> Joſiah Primat <hi>of</hi> London, <hi>Leatherſeller:</hi> He doth acknowledge that the ſame is one of the Copies he cauſed to be, printed, and that he did deliver diverſe of them to diverſe Mem<g ref="char:EOLhyphen"/>bers of the Houſe, and likewiſe to divers other perſons not Mem<g ref="char:EOLhyphen"/>bers of the Houſe; and that he delivered divers printed Copies of them to other perſons to be delivered, and in particular to Lieute<g ref="char:EOLhyphen"/>nant Colonel <hi>Iohn Lilborn,</hi> to deliver them to ſeveral perſons.</p>
+            <pb n="1528" facs="tcp:169110:3"/>
+            <p>Lieutenant Colonel <hi>John Lilborn</hi> was by Order of the Houſe called in, and being come to the Bar, was demanded by Mr. Speaker, whether he did deliver any of the printed Copies of Maſter <hi>Pri<g ref="char:EOLhyphen"/>mat</hi>'s Petition, one whereof was ſhewed him: He anſwered, He did deliver divers to Mr. Speaker, Sir <hi>Arthur Heſilrige,</hi> Colonel <hi>Fen<g ref="char:EOLhyphen"/>wick,</hi> and as many other Members of the Houſe as he could. And being asked whether he did not deliver it to divers others that were not Members: He ſaith, He did deliver it to divers who deſired to read it; And being asked whether he gave direction for the print<g ref="char:EOLhyphen"/>ing of it, He ſaith, He was employed from the beginning in man<g ref="char:EOLhyphen"/>aging this Buſineſs by Mr. <hi>Primat</hi> and his Uncle <hi>George Lilborn;</hi> that he believed Mr. <hi>Primat</hi> will tell the Houſe he gave direction for the printing of it, and will avow it.</p>
+            <p>And being asked whether he did pen the Petition: He ſaith, He did not, but he was by when it was penned, and liked it well.</p>
+            <p>Reſolved upon the Queſtion by the Parliament, <hi>That this Petition of</hi> Joſiah Primat <hi>be committed.</hi>
+            </p>
+            <p>A Committee was accordingly appointed, and power given them to examine upon Oath, and to ſend for Perſons, Parties, Wit<g ref="char:EOLhyphen"/>neſſes, Records and Papers, and to report forthwith.</p>
+            <p>The Committee having ſate Twelve days upon this Buſineſs, and examined Witneſſes produced on both ſides, and heard what<g ref="char:EOLhyphen"/>ſoever could be ſaid:</p>
+         </div>
+         <div type="report">
+            <head>Thurſday <hi>the Fifteenth of</hi> January, 1651.</head>
+            <p>A Report was made from the ſaid Committee of their Pro<g ref="char:EOLhyphen"/>ceedings therein, and of the matter of Fact appearing to them, and the Evidence given them.</p>
+            <p>The Petition which was committed, was as followeth; <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Supream Authority of this Nation, The Parliament of the Commonwealth of <hi>England;</hi> The humble Petition of <hi>Joſiah Pri<g ref="char:EOLhyphen"/>mat</hi> of <hi>London,</hi> Leatherſeller;</head>
+                        <opener>SHEVVETH,</opener>
+                        <p>THat your Petitioner by his Under-Tenants, <hi>George Lilborn</hi>
+                           <abbr>Eſq</abbr> and <hi>George Gray</hi> the yonger, Gent. both of the county of <hi>Dureſm,</hi> being in the years 1647, 1648, and 1649. in a juſt and quiet Poſſeſsion of the Collieries or Seams of Coal in <hi>Harraton,</hi> in the County aforeſaid, called the <hi>Five-quarter</hi> and <hi>Nine-quarter Coal</hi> (and having ſpent near 2000 l. to win the ſame) which lay drowned and loſt from 1642, to 1647. Sir <hi>Arthur Heſilrige</hi> in <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1649. procuring Colonel <hi>Francis Wren,</hi> one of the Com<g ref="char:EOLhyphen"/>mittee of that County, and Colonel <hi>George Fenwick,</hi> to joyn with
+<pb n="1529" facs="tcp:169110:3"/>him, made an Order (againſt which the reſt of the ſaid Committee preſent proteſted) to ſequeſter the ſaid Collieries, under colour of an untrue ſuggeſtion: That Sir <hi>William Armyn</hi> had ſequeſtred the ſame in 1644. as belonging to one <hi>Thomas Wray</hi> a Papiſt Delin<g ref="char:EOLhyphen"/>quent; and thereupon the ſaid Sir <hi>Arthur</hi> violently diſpoſſeſſed your Petitioners Tenants, and ſeized their Goods, and let the ſaid Collieries to Colonel <hi>Francis Hacker,</hi> and ſeveral of the Officers of his own Regiment.</p>
+                        <p>That your Petitioner hath petitioned to the Commiſſioners for Compounding for relief, but by the power and influence of the ſaid Sir <hi>Arthur</hi> upon moſt of the ſaid Commiſſioners, your Peti<g ref="char:EOLhyphen"/>tioner hath been delayed and denied the ordinary courſe of Pro<g ref="char:EOLhyphen"/>ceeding in all Courts of Juſtice; and at laſt coming to Hearing, the ſaid Sir <hi>Arthur</hi> appeared every day of the Hearing, and took upon him, not onely to plead againſt your Petitioner (which is hum<g ref="char:EOLhyphen"/>bly conceived to be contrary to Law, he being a Member of the Supream Authority) but alſo authoritatively to prejudge your Pe<g ref="char:EOLhyphen"/>titioners Caſe, and to direct the ſaid Commiſſioners what to judge therein, and by his power and influence upon the ſaid Commiſſion<g ref="char:EOLhyphen"/>ers, he over-awed moſt of them; and after full Hearing, Judge<g ref="char:EOLhyphen"/>ment being reſpited from day to day, the ſaid Sir <hi>Arthur</hi> kept private Correſpondence with ſome of the ſaid Commiſſioners about finding ſome new colour or pretences to detain your Petiti<g ref="char:EOLhyphen"/>oners Poſſeſſion from him: Whereupon he produced new pretend<g ref="char:EOLhyphen"/>ed Evidence after full hearing; and thereupon the major part of the ſaid Commiſſioners not daring (as is humbly conceived) to oppoſe the will and pleaſure of the ſaid Sir <hi>Arthur,</hi> have contrary to clear Evidence before them for your Petitioner, refuſed to re<g ref="char:EOLhyphen"/>lieve him, and have punctually purſued in their Judgement, the Di<g ref="char:EOLhyphen"/>rection publiquely given by the ſaid Sir <hi>Arthur.</hi>
+                        </p>
+                        <p>That the ſaid Commiſſioners being the onely perſons authorized by the Parliament, to hear and determine all Caſes about Se<g ref="char:EOLhyphen"/>queſtred Eſtates, Your Petitioner cannot be relieved from the Op<g ref="char:EOLhyphen"/>preſſion and Tyranny of the ſaid Sir <hi>Arthur,</hi> ſave by the Parlia<g ref="char:EOLhyphen"/>ment, or their ſpecial Order and Direction. And your Petitioner hath been kept from his Poſſeſſion above Two years; and the ſaid Sir <hi>Arthur</hi> hath declared the ſaid Collieries to be worth at leaſt 5000 l.<hi>per annum.</hi>
+                        </p>
+                        <p>
+                           <hi>May it therefore pleaſe the Parliament, in reſpect to the Publique Juſtice of the Commonwealth, to cauſe the Truth of the Premiſes to be ſpeedily examined, and to provide for your Petitioners relief from the Oppreſsion and Tyranny of the ſaid Sir</hi> Arthur Heſilrige; <hi>and for the Diſpenſation of Juſtice, without Fear or Favor, as to your Wiſdoms ſhall ſeem moſt juſt.</hi>
+                        </p>
+                        <closer>
+                           <signed>And your Petitioner ſhall pray, <hi>&amp;c. Joſiah Primat.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="1530" facs="tcp:169110:4"/>
+            <p>The Judgement and Reſolution of the Commiſſioners for Compounding, againſt which this Petition and Appeal was made, is as followeth:</p>
+            <div type="proceeding">
+               <head>By the commiſsioners for Compounding, <hi>&amp;c.</hi> 12. <hi>December.</hi> 1651.</head>
+               <p>IN the Caſe depending before us, touching the Colliery of <hi>Harraton,</hi> having heard the Depoſitions and Proofs taken there<g ref="char:EOLhyphen"/>in, and peruſed the Deeds and other Writings offered to us, on the behalf of <hi>Joſiah Primat</hi> of <hi>London,</hi> Leather-ſeller, who claims an Intereſt in the ſaid Colliery by Leaſe thereof from <hi>Robert Coni<g ref="char:EOLhyphen"/>ers,</hi> who pretends a Right therein by Grant from Sir <hi>John Hed<g ref="char:EOLhyphen"/>worth;</hi> And upon hearing of Counſel, as well on the Part and be<g ref="char:EOLhyphen"/>half of the ſaid <hi>Joſiah Primat,</hi> as on the behalf of the Common<g ref="char:EOLhyphen"/>wealth, in whoſe Right the ſame is Sequeſtred, as belonging to Colonel <hi>Thomas Wray,</hi> a Papiſt and Delinquent; And having had ſeveral Debates upon the ſaid Proofs and Writings, and what hath been offered by the Counſel on either ſide, Do Reſolve,</p>
+               <p>That it doth appear that the whole Colliery of <hi>Harraton</hi> was under Sequeſtration in the year 1644. without diſtinction of Seams.</p>
+               <p>That it doth not appear that the ſaid Colliery, or any part thereof, was diſcharged from Sequeſtration from the year 1644. to this time.</p>
+               <p>That upon Conſideration of the whole Matter, there doth not appear to us ſufficient cauſe to take off the Sequeſtration of the ſaid Colliery, or any part thereof, upon the Petition of the ſaid Mr. <hi>Primat.</hi>
+               </p>
+               <p>
+                  <hi>Reſolved,</hi>
+               </p>
+               <p>That we do leave all Parties claiming any Intereſt in the ſaid Colliery to their courſe in Law; and do think it fit that the Poſſeſ<g ref="char:EOLhyphen"/>ſion be eſtabliſhed accordingly.</p>
+               <p>Reſolved upon the Queſtion,</p>
+               <p>
+                  <hi>That the Houſe do proceed firſt with the Civil part.</hi>
+               </p>
+               <p>The Houſe after long and ſerious Debate of the Matter,</p>
+               <p>Reſolved upon the Queſtion,</p>
+               <p>
+                  <hi>That the Parliament doth approve of and affirm the Judgement and Reſolutions of the Commiſsioners for Compounding, in the Caſe of</hi> Joſiah Primat.</p>
+               <p>In the next place the Houſe proceeded with the Matter of Crime charged by the ſaid Petition; and</p>
+               <pb n="1531" facs="tcp:169110:4"/>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether this part of the Petition [<hi>viz.</hi> That Sir <hi>Arthur Heſilrige</hi> in <hi>September,</hi> 1649. procuring Colonel <hi>Francis Wren,</hi> one of the Committee of that County, and Colonel <hi>George Fen<g ref="char:EOLhyphen"/>wiek,</hi> to joyn with him, made an Order (againſt which the reſt of the ſaid Committee preſent proteſted) to Sequeſter the ſaid Col<g ref="char:EOLhyphen"/>lieries under colour of an untrue Suggeſtion, That Sir <hi>William Armyn</hi> had ſequeſtred the ſame in 1644. as belonging to one <hi>Thomas Wray</hi> a Papiſt Delinquent] appears to the Houſe to be proved to be true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether this part of the Petition [<hi>viz.</hi> That Sir <hi>Arthur Heſilrige</hi> did therupon violently diſpoſſeſs the Petitioners Tenants, and ſeized their Goods, and let the ſaid Collieries to Colonel <hi>Francis Hacker,</hi> and ſeveral of the Officers of his own Regiment] appears to the Houſe to be proved to be true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether this part of the Petition [<hi>viz.</hi> That the Petitioner (having petitioned the Commiſſioners for Compounding for relief) by the power and influence of the ſaid Sir <hi>Arthur</hi> upon moſt of the ſaid Commiſſioners, the Petitioner hath been delayed and de<g ref="char:EOLhyphen"/>nied the ordinary courſe of proceedings in Courts of Juſtice] appears to the Houſe to be proved to be true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether Sir <hi>Arthur Heſilrige</hi> hath committed any Crime in appearing every day at the hearing of the ſaid Cauſe, and ſpeaking there on behalf of the Commonwealth.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether that part of the Petition [<hi>viz.</hi> That Sir <hi>Arthur</hi> did Authoritatively prejudge the Petitioners Caſe, and direct the Commiſſioners what to judge therein; and by his power and in<g ref="char:EOLhyphen"/>fluence upon the ſaid Commiſſioners he overawed moſt of them] appears to the houſe to be proved to be true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether this part of the Petition [<hi>viz.</hi> That after full hear<g ref="char:EOLhyphen"/>ing, Judgement being reſpited from day to day, the ſaid Sir <hi>Ar<g ref="char:EOLhyphen"/>thur</hi> kept private Correſpondence with ſome of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, about finding ſome new colour or pretences to detain the Petitioners Poſſeſſion from him; Whereupon he produced new
+<pb n="1532" facs="tcp:169110:5"/>pretended Evidence after full hearing] appears to be proved true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether this part of the Petition [<hi>viz.</hi> That thereupon the major part of the ſaid Commiſſioners not daring to oppoſe the will and pleaſure of the ſaid Sir <hi>Arthur,</hi> have contrary to clear Evidence before them for the Petitioner, refuſed to relieve him, and have punctually purſued in their Judgement, the direction pub<g ref="char:EOLhyphen"/>liquely given by the ſaid Sir <hi>Arthur</hi>] appears to this Houſe to have been proved to be true.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>
+                  <hi>The Queſtion being put,</hi>
+               </p>
+               <p>Whether it doth appear that Sir <hi>Arthur Heſilrige</hi> is guilty either of Oppreſſion or Tyranny in the Carriage and Proſecution of this Buſineſs.</p>
+               <p>It paſſed in the Negative.</p>
+               <p>Reſolved upon the Queſtion,</p>
+               <p>
+                  <hi>That this Petition is falſe, malicious and ſcandalous.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That the printing, publiſhing and diſperſing of this Petition, both before and ſince it was preferred to the Parliament, is an high Breach of the Priviledge of Parliament.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That all the printed Copies of the Petition, en<g ref="char:EOLhyphen"/>tituled,</hi> The humble Petition and Appeal of <hi>Ioſiah Primat</hi> of <hi>London</hi> Leatherſeller, <hi>be burnt by the hand of the common Hangman, at the</hi> Old Exchange London, <hi>and in the</hi> Old Pallace, <hi>on Tueſday and Wedneſday next; and that the Sheriffs of</hi> Lon<g ref="char:EOLhyphen"/>don <hi>and</hi> Middleſex <hi>do take care that the ſame be done accordingly.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That the Fine of Three thouſand pounds be impoſed upon</hi> Joſiah Primat <hi>of</hi> London, <hi>Leather<g ref="char:EOLhyphen"/>ſeller, to be paid to the uſe of the Common<g ref="char:EOLhyphen"/>wealth.</hi>
+               </p>
+               <pb n="1533" facs="tcp:169110:5"/>
+               <p>
+                  <hi>Two thouſand pounds to ſir</hi> Arthur Heſilrige <hi>for his Damages.</hi>
+               </p>
+               <p>
+                  <hi>Two thouſand pounds to</hi> James Ruſſel, Ed<g ref="char:EOLhyphen"/>ward Winſlow, William Molins <hi>and</hi> Arthur Squib, <hi>
+                     <abbr>Eſqs</abbr> four of the Commiſſioners for Com<g ref="char:EOLhyphen"/>pounding; that is to ſay, To each of them Five hundred pounds for their Damages.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That the ſaid</hi> Joſiah Primat <hi>be committed to the Fleet, there to remain a Priſoner, until the ſeveral Fines aforeſaid be paid.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That the Sergeant at Arms attending the Parliament, do apprehend the ſaid</hi> Joſiah Primat, <hi>and bring him to the Bar of this Houſe upon Tueſday next, to receive the Iudgement a<g ref="char:EOLhyphen"/>foreſaid, and that Mr. Speaker do direct a Warrant to the Sergeant at Arms accord<g ref="char:EOLhyphen"/>ingly.</hi>
+               </p>
+            </div>
+            <div type="proceeding">
+               <head>The Parliament did in the next place proceed againſt Lieutenant Colonel <hi>Iohn Lilborn.</hi>
+               </head>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi>
+               </p>
+               <p>THat the Fine of Three thouſand pounds be impoſed upon Lieutenant Colonel <hi>John Lilborn,</hi> to be paid to the uſe of the Common<g ref="char:EOLhyphen"/>wealth.</p>
+               <p>That he be Fined Two thouſand pounds more to be paid to Sir <hi>Arthur Heſilrige</hi> for his Damages; and Two thouſand pounds more to be paid to <hi>James Ruſſel, Edward Winſlow, Wil<g ref="char:EOLhyphen"/>liam Molins</hi> and <hi>Arthur Squib,</hi>
+                  <abbr>Eſqs</abbr> four of the Commiſsioners for Compounding; that is to ſay, To each of them Five hundred pounds for their Damages.</p>
+               <pb n="1534" facs="tcp:169110:6"/>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi>
+               </p>
+               <p>That Lieutenant Colonel <hi>John Lilborn</hi> be Ba<g ref="char:EOLhyphen"/>niſhed out of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Iſlands and Territories thereunto be<g ref="char:EOLhyphen"/>longing, and not to return into any of them, upon pain of being proceeded againſt as a Fe<g ref="char:EOLhyphen"/>lon; and in caſe of ſuch return, ſhall ſuffer Death accordingly.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi>
+               </p>
+               <p>That Lieutenant Colonel <hi>John Lilborn</hi> do de<g ref="char:EOLhyphen"/>part out of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Iſlands and Territories thereof, within thirty days now next coming; and in caſe the ſaid <hi>John Lilborn</hi> ſhall after the ſaid Thirty days be found within <hi>England, Scotland</hi> or <hi>Ireland,</hi> or the Iſlands and Territories thereunto be<g ref="char:EOLhyphen"/>longing, or ally of them; The ſaid Lieute<g ref="char:EOLhyphen"/>nant Colonel <hi>John Lilborn</hi> ſhall be proceeded a<g ref="char:EOLhyphen"/>gainſt as a Felon, and ſhall ſuffer the pains of Death accordingly.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi>
+               </p>
+               <p>That the Sergeant at Arms attending the Parliament, do Apprehend the ſaid Lieutenant Colonel <hi>John Lilborn</hi> and bring him to the Bar of this Houſe upon Tueſday morning next, to receive the Iudgement of Parliament afore<g ref="char:EOLhyphen"/>ſaid; and that Mr. Speaker do direct a War<g ref="char:EOLhyphen"/>rant to the Sergeant at Arms accordingly.</p>
+            </div>
+            <div type="proceeding">
+               <head>Friday the <hi>16<hi rend="sup">th</hi>
+                  </hi> of Ianuary, <hi>1651.</hi>
+               </head>
+               <p>THE Houſe reſumed the Debate upon the Report made by Mr. <hi>Hill</hi> yeſterday.</p>
+               <p>Several Paſſages in a Printed Book [Entituled, <hi>A juſt Reproof to Haberdaſhers hall: Or, An Epiſtle written by Lieutenant Colonel</hi> John Lilborn, July 30. 1651. <hi>to four of the Commiſsioners at Haberdaſhers-hall;</hi> viz. <hi>Mr.</hi> James
+<pb n="1535" facs="tcp:169110:6"/>Ruſſel, <hi>Mr.</hi> Edward Winſlow, <hi>Mr.</hi> William Molins, <hi>and Mr.</hi> Arthur Squib; <hi>wherein is ſet forth their unjuſt and unrighteous dealings in ſeveral Caſes: with the Relations of the ſaid</hi> John Lilborn, <hi>and their Captiving their understanding to the Tyrannical will of Sir</hi> Arthur Heſilrige, <hi>who hath moſt unjuſtly endeavored a long time together, the extirpation of the Family of the ſaid</hi> John Lilborn] were now read; which Book was proved before the ſaid Committee to have been delivered to a Member of Parliament by Lieute<g ref="char:EOLhyphen"/>nant Colonel <hi>Iohn Lilborn,</hi> and was by the ſaid Lieute<g ref="char:EOLhyphen"/>nant Colonel <hi>Iohn Lilborn</hi> confeſſed before the ſaid Committee to be his Book, as was now Reported to the Houſe from the Committee.</p>
+               <p>Reſolved upon the Queſtion by the Parliament, <hi>That this Book doth contain matter, falſe, ſcandalous and malicious.</hi>
+               </p>
+               <p>Reſolved, &amp;c.</p>
+               <p>
+                  <hi>That this Book, and all the Printed Copies of the ſame, be burnt by the hand of the com<g ref="char:EOLhyphen"/>mon Hangman, at the ſame place and time when the printed Copies of the Petition of</hi> Jo<g ref="char:EOLhyphen"/>ſiah Primat <hi>of</hi> London <hi>Leatherſeller, are appoint<g ref="char:EOLhyphen"/>ed to be burnt.</hi>
+               </p>
+               <p>Ordered by the Parliament,</p>
+               <p>
+                  <hi>That all Printers, Stationers, Bookſellers and others, who have any of the printed Co<g ref="char:EOLhyphen"/>pies of the Book, Entituled,</hi> A juſt Reproof to Haberdaſhers-hall, &amp;c. <hi>or any of the printed Co<g ref="char:EOLhyphen"/>pies of the Petition and Appeal of</hi> Joſiah Pri<g ref="char:EOLhyphen"/>mat <hi>of</hi> London <hi>Leatherſeller, be enjoyned and required forthwith to deliver in to the She<g ref="char:EOLhyphen"/>riffs of</hi> London <hi>and</hi> Middleſex, <hi>or to the next Iu<g ref="char:EOLhyphen"/>ſtice of the Peace, all the ſaid printed Copies of the ſaid Book and Petition; and that the ſaid Sheriffs of</hi> London <hi>and</hi> Middleſex, <hi>and the ſaid Iuſtices of Peace reſpectively, be required
+<pb n="1536" facs="tcp:169110:7"/>to cauſe all the ſame printed Copies to be burnt by the hand of the common Hangman.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <head>
+               <hi>Saturday the Seventeenth of Ianuary,</hi> 1651.</head>
+            <p>ORdered by the Parliament, That the ſeveral Pro<g ref="char:EOLhyphen"/>ceedings and Votes upon this Report, be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
